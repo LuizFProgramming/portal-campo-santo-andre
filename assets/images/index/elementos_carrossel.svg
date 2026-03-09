@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1920" height="800" viewBox="0 0 1920 800">
+
+  <!-- Área amarela diagonal -->
+  <path d="M980 800 L1920 800 L1920 0 L1560 0 L980 520 Z" fill="#F3D147"></path>
+
+  <!-- Quadrados amarelos -->
+  <rect x="1180" y="120" width="54" height="40" fill="#F3D147"></rect>
+  <rect x="520" y="650" width="54" height="40" fill="#F3D147"></rect>
+
+  <!-- Pequeno retângulo branco (esquerda) -->
+  <rect x="150" y="120" width="60" height="44" fill="#FFFFFF"></rect>
+
+  <!-- Triângulo branco -->
+  <path d="M1185 330 L1235 360 L1185 390 Z" fill="#FFFFFF"></path>
+
+  <!-- Linha diagonal branca -->
+  <rect x="1150" y="520" width="520" height="14" fill="#FFFFFF" transform="rotate(32 1150 520)"></rect>
+
+  <!-- Pontilhado branco (inferior esquerdo) -->
+  <g fill="#FFFFFF">
+    <circle cx="110" cy="690" r="8"></circle><circle cx="150" cy="690" r="8"></circle><circle cx="190" cy="690" r="8"></circle>
+    <circle cx="110" cy="730" r="8"></circle><circle cx="150" cy="730" r="8"></circle><circle cx="190" cy="730" r="8"></circle>
+    <circle cx="110" cy="770" r="8"></circle><circle cx="150" cy="770" r="8"></circle><circle cx="190" cy="770" r="8"></circle>
+    <circle cx="230" cy="730" r="8"></circle><circle cx="270" cy="730" r="8"></circle>
+  </g>
+
+  <!-- Pontilhado escuro (inferior direito – igual referência) -->
+  <g fill="#111827" opacity="0.55">
+    <circle cx="1600" cy="640" r="7"></circle><circle cx="1640" cy="640" r="7"></circle><circle cx="1680" cy="640" r="7"></circle>
+    <circle cx="1600" cy="680" r="7"></circle><circle cx="1640" cy="680" r="7"></circle><circle cx="1680" cy="680" r="7"></circle>
+    <circle cx="1600" cy="720" r="7"></circle><circle cx="1640" cy="720" r="7"></circle><circle cx="1680" cy="720" r="7"></circle>
+    <circle cx="1600" cy="760" r="7"></circle><circle cx="1640" cy="760" r="7"></circle><circle cx="1680" cy="760" r="7"></circle>
+  </g>
+
+  <!-- Estrela decorativa amarela -->
+  <path d="M1800 740
+           C1815 720, 1830 720, 1845 740
+           C1865 725, 1885 740, 1865 760
+           C1885 780, 1865 795, 1845 780
+           C1830 800, 1815 800, 1800 780
+           C1780 795, 1760 780, 1780 760
+           C1760 740, 1780 725, 1800 740 Z" fill="#F3D147" opacity="0.35"></path>
+
+</svg>
